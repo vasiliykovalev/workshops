@@ -1,2 +1,2 @@
 # workshops
-The workshops that I organize
+The workshops that I do
